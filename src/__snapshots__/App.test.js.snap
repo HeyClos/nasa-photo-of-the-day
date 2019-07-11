@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="App"
+>
+  <p>
+    Hold your horses...
+    Hold your horses...
+    "!!!!"
+  </p>
+</div>
+`;
